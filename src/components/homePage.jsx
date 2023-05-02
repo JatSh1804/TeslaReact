@@ -2,7 +2,6 @@ import React from "react";
 
 import Section from "./section.jsx";
 import products from "../carsData";
-import Footer from "./footer.jsx";
 
 function section(item) {
     return (
